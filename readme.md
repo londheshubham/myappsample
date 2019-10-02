@@ -1,2 +1,2 @@
 #readme
-this is my app
+first attempt to learn git
